@@ -5,7 +5,7 @@ The goal of this project was to introduce members to some basic assets and tradi
 
 ## 👫 Project Members
 Project Leaders: Stephen Yang, Euhan Kim\
-Project Developers: TBD
+Project Developers: Lincoln Too, Ergun Acikoz, Liz Weaver, Victor Shuai Zhou, Justin Xu
 
 ## 💻 Technologies
 Python (Quantconnect, Statsmodel)
